@@ -1,0 +1,29 @@
+<template name='stars'>
+<view class='starWrapper'>
+  <view class='starBox' wx:if='{{score>0}}'>
+    <block wx:for='{{[2,4,6,8,10]}}' wx:key='star'>
+      <view class='starItem'>
+        <image mode='aspectFit' class='stargray' src='../../image/star_off.png'></image>
+        <view wx:if='{{item <= score}}' style='width:100%' class='clipStar'>
+          <image mode='aspectFit' class='starYellow' src='../../image/star_on.png'></image>
+        </view>
+
+        <view wx:elif='{{item > score && item < (score+2)}}' style='width:{{(score-item+2)/2*100}}%' class='clipStar'>
+          <image mode='aspectFit' class='starYellow' src='../../image/star_on.png'></image>
+        </view>
+
+        <view wx:elif='{{item === (score+1)}}' style='width:50%' class='clipStar'>
+          <image mode='aspectFit' class='starYellow' src='../../image/star_on.png'></image>
+        </view>
+
+        <view wx:elif='{{item > (score+2)}}' style='width:0%' class='clipStar'>
+          <image mode='aspectFit' class='starYellow' src='../../image/star_on.png'></image>
+        </view>
+
+      </view>
+    </block>
+  </view>
+  <text class='starScore' wx:if='{{score>0}}'>{{score}}</text>
+  <text wx:elif="{{score==0}}" class='nocore'>暂无评分</text>
+</view>
+</template>

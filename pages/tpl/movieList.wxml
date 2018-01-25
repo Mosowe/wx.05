@@ -1,0 +1,15 @@
+<import src='../tpl/movieCard'/>
+<template name='movieList'>
+  <view class='movieListTop' bindtap='gotomore' data-movielisturl='{{movieListUrl}}'>
+    <text class='movieListName'>{{movieListName}}</text>
+    <text class='movieListMore'>更多</text>
+  </view>
+  <scroll-view scroll-x='true'>
+    <view class='movieListWrapper' style=' width:{{movieList.length*220}}rpx;'>
+        <block wx:for='{{movieList}}' wx:key='item'>
+          <template is='movieCard' data='{{title: item.name , image: item.image , score: item.score }}'></template>
+        </block>
+    </view>
+  </scroll-view>
+</template>
+

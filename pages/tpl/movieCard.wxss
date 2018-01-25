@@ -1,0 +1,6 @@
+@import '../star/star';
+.movieTitle{ font-size: 30rpx; color: #222}
+.cardWrapper{ overflow: hidden; display: inline-block; width: 220rpx; padding:0 22rpx; box-sizing: border-box}
+.cardWrapper .moviePic{ width: 220rpx; height: 300rpx}
+.movieTitle{ display: block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 26rpx;}
+

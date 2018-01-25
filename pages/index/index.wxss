@@ -1,0 +1,4 @@
+@import '../tpl/movieList';
+@import '../tpl/search';
+.indexBox{ overflow: hidden; padding-bottom: 50rpx;}
+.indexScroll{ position: absolute; left: 0; top: 100rpx; bottom: 0}

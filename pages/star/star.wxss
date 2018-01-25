@@ -1,0 +1,8 @@
+.starWrapper{ overflow: hidden; display: flex;}
+.starBox{ overflow: hidden; display: flex; height: 25rpx; margin-top: 7rpx; margin-right: 5rpx}
+.starItem{ width: 25rpx; height: 25rpx; text-align: center; line-height: 25rpx; color: #ccc; position: relative; margin-right: 5rpx;}
+.starYellow{ position: absolute; left: 0; top: 0; width: 25rpx; height:25rpx; z-index: 1}
+.stargray{ position: absolute; left: 0; top: 0; width: 25rpx; height: 25rpx; z-index: 0}
+.clipStar{ width: 100%; height: 100%; position: absolute; left: 0; top: 0; overflow: hidden}
+.starScore{ font-size: 30rpx}
+.nocore{ font-size: 22rpx; color: #666}

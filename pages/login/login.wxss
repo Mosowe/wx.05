@@ -1,0 +1,8 @@
+/* pages/login/login.wxss */
+
+.login{ text-align: center; margin: 100rpx 0; font-size: 40rpx;}
+.loginWrapper{ overflow: hidden; width: 80%; margin: 0 auto}
+.loginWrapper label{ overflow: hidden; display: flex; margin: 20rpx 0;}
+.loginWrapper text{ flex: 0 0 100rpx; font-size: 30rpx; text-align: right}
+.loginWrapper input{ border: 1px solid #ddd; padding: 0 10rpx; border-radius: 5rpx; box-sizing: border-box; flex: 1; font-size: 30rpx;}
+.loginWrapper button{ font-size: 30rpx; }

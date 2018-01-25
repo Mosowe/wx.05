@@ -1,0 +1,32 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/login/login",
+    "pages/person/person",
+    "pages/moremovie/moremovie"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#44bb57",
+    "navigationBarTitleText": "豆瓣评分",
+    "navigationBarTextStyle":"white"
+  },
+  "tabBar":{
+    "list":[
+      {
+        "iconPath":"image/film_off.png",
+        "selectedIconPath":"image/film_on.png",
+        "pagePath":"pages/index/index",
+        "text": "首页"
+      },
+      {
+        "iconPath": "image/person_off.png",
+        "selectedIconPath": "image/person_on.png",
+        "pagePath":"pages/person/person",
+        "text": "个人"
+      }
+    ],
+    "color": "#999999",
+    "selectedColor": "#44bb57"
+  }
+}

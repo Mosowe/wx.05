@@ -1,0 +1,14 @@
+<view class='login'>登陆页面</view>
+
+<view class='loginWrapper'>
+  <label>
+    <text>id：</text>
+    <input bindinput='getId'></input>
+  </label>
+  <label>
+    <text>密码：</text>
+    <input password='true' bindinput='getPsd'></input>
+  </label>
+  <button type='primary' bindtap='login'>登陆</button>
+</view>
+

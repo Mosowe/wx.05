@@ -1,0 +1,5 @@
+.search{ overflow: hidden; width: 100%; padding: 22rpx; box-sizing: border-box; background-color: #44bb57; height: 100rpx;}
+.serchBtn{ overflow: hidden; width: 100%; height: 56rpx; border-radius: 5rpx; background-color: #fff; font-size: 28rpx; color: #666; display: flex; flex-direction: row; justify-content: center}
+.serchBtn icon{ margin: auto 0}
+.searchText{ margin: auto 0; margin-left: 10rpx;}
+

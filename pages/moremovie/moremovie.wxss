@@ -1,0 +1,6 @@
+@import '../tpl/movieCard';
+.morebox{ overflow: hidden; padding: 30rpx 0}
+.moreScroll{ position:absolute; left: 0; top: 0; bottom: 0}
+.cardWrapper{ width: 240rpx;}
+.cardWrapper .moviePic{ width: 240rpx;}
+

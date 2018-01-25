@@ -1,0 +1,13 @@
+<import src='../tpl/movieList'/>
+<view class='person-top'>
+    <image class='personBgPic' mode='aspectFill' src='../../image/person.jpg'></image>
+    <image class='personPic' mode='aspectFill' src='../../image/personPic.jpg'></image>
+    <view class='personName'>{{userName}}</view>
+</view>
+<scroll-view scroll-y class='personScroll'>
+  <view class='person-Wrapper'>
+    <template is='movieList' data="{{movieListName:visited.title , movieList:visited.list }}"></template>
+    <template is='movieList' data="{{movieListName:hope.title , movieList:hope.list }}"></template>
+     <button type='warn' class='loginOut' bindtap='loginOut'>退出登陆</button> 
+  </view>
+</scroll-view>

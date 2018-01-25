@@ -1,0 +1,55 @@
+{
+  "title": "2017评分最高的华语电影",
+  "list": [
+    {
+      "name": "嘉年华",
+      "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2503644828.jpg",
+      "score": 8.4
+    },
+    {
+      "name": "相爱相亲",
+      "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2502311890.jpg",
+      "score": 8.4
+    },
+    {
+      "name": "不成问题的问题",
+      "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2504993947.jpg",
+      "score": 8.2
+    },
+    {
+      "name": "目击者之追凶",
+      "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2494647817.jpg",
+      "score": 8.1
+    },
+    {
+      "name": "芳华",
+      "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2507227732.jpg",
+      "score": 7.8
+    },
+    {
+      "name": "一念无明",
+      "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2452970761.jpg",
+      "score": 7.9
+    },
+    {
+      "name": "冈仁波齐",
+      "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2462387248.jpg",
+      "score": 7.7
+    },
+    {
+      "name": "绣春刀II：修罗战场",
+      "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2492665487.jpg",
+      "score": 7.3
+    },
+    {
+      "name": "闪光少女",
+      "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2494275431.jpg",
+      "score": 7.3
+    },
+    {
+      "name": "29+1",
+      "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2458020487.jpg",
+      "score": 7.3
+    }
+  ]
+}

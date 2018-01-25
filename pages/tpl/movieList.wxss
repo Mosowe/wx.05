@@ -1,0 +1,14 @@
+@import '../tpl/movieCard';
+.movieListTop{ overflow: hidden;padding: 16rpx 22rpx; height: 40rpx;}
+.movieListName{ float: left; font-size: 30rpx; padding-left: 15rpx; border-left: 5rpx solid #71C671; margin-top: 5rpx; line-height: 30rpx;}
+.movieListMore{ float: right; font-size: 22rpx; color: #71C671; line-height: 40rpx;}
+.movieListWrapper{ overflow: hidden;}
+
+
+
+
+
+
+
+
+

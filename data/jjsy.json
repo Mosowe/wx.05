@@ -1,0 +1,30 @@
+{
+  "title": "即将上映",
+  "list": [
+    {
+      "name": "大雪冬至",
+      "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510150169.webp",
+      "video": "http://vt1.doubanio.com/201801241458/9b1a1f668d63dc9f0b4e1fe637a04239/view/movie/M/302250713.mp4"
+    },
+    {
+      "name": "移动迷宫3：死亡解药",
+      "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2508618114.webp",
+      "video": "http://vt1.doubanio.com/201801241458/9b1a1f668d63dc9f0b4e1fe637a04239/view/movie/M/302250713.mp4"
+    },
+    {
+      "name": "24小时：末路重生",
+      "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2510056332.webp",
+      "video": "http://vt1.doubanio.com/201801241458/9b1a1f668d63dc9f0b4e1fe637a04239/view/movie/M/302250713.mp4"
+    },
+    {
+      "name": "五度空间",
+      "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2508074264.webp",
+      "video": "http://vt1.doubanio.com/201801241458/9b1a1f668d63dc9f0b4e1fe637a04239/view/movie/M/302250713.mp4"
+    },
+    {
+      "name": "麦兵兵之夺宝联“萌”",
+      "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2511436534.webp",
+      "video": "http://vt1.doubanio.com/201801241458/9b1a1f668d63dc9f0b4e1fe637a04239/view/movie/M/302250713.mp4"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+<import src='../star/star'/>
+<template name="movieCard">
+    <view class='cardWrapper'>
+        <image mode='aspectFit' src='{{image}}' class='moviePic'></image>
+        <text class='movieTitle'>{{title}}</text>
+        <template is='stars' data="{{score:score}}"></template>
+    </view>
+</template>

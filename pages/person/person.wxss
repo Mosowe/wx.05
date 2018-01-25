@@ -1,0 +1,12 @@
+/* pages/person/person.wxss */
+@import "../tpl/movieList";
+.personScroll{ position: absolute; top: 400rpx; bottom: 0; left: 0}
+.person-top{ overflow: hidden; height: 400rpx; position: relative; width: 100%; z-index: -1}
+.personBgPic{ width: 100%; position: absolute; left: 0; top: 0}
+.person-Wrapper{ overflow: hidden; padding-bottom: 30rpx;}
+
+.personPic{ position: absolute; z-index: 1; left: 50%; top: 40%; width: 100rpx; height: 100rpx; margin-left: -50rpx; margin-top: -50rpx; border-radius: 50%; box-shadow: 0 0 10px #000}
+
+.personName{ text-align: center; font-size: 30rpx; width: 100%; color: #fff; position: absolute; left: 0; top: 60%}
+.loginOut{ width: 80%; margin: 20rpx auto; font-size: 20rpx;}
+

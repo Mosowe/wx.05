@@ -1,0 +1,14 @@
+<import src='../tpl/movieCard'/>
+<scroll-view scroll-y class='moreScroll'>
+<view class='morebox'>
+  <block wx:for='{{movielist.list}}' wx:key='title'>
+    <template is='movieCard' data='{{title: item.name , image: item.image , score: item.score }}'></template>
+  </block>
+</view>
+</scroll-view>
+
+
+
+
+
+

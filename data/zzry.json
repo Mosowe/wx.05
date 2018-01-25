@@ -1,0 +1,55 @@
+{
+  "title": "正在热映",
+  "list": [
+    {
+      "name": "勇敢者游戏",
+      "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2506258944.webp",
+      "score": 7.2
+    },
+    {
+      "name": "公牛历险记",
+      "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2510825300.webp",
+      "score": 7.5
+    },
+    {
+      "name": "星球大战8：最后的绝地武士",
+      "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2506694509.webp",
+      "score": 7.2
+    },
+    {
+      "name": "第一夫人",
+      "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2508339738.webp",
+      "score": 6.6
+    },
+    {
+      "name": "英雄本色2018",
+      "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2508615612.webp",
+      "score": 5.1
+    },
+    {
+      "name": "谜巢",
+      "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2510144625.webp",
+      "score": 3.9
+    },
+    {
+      "name": "前任3：再见前任",
+      "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2508926717.webp",
+      "score": 5.7
+    },
+    {
+      "name": "敦煌不了情",
+      "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2502988698.webp",
+      "score": 0
+    },
+    {
+      "name": "太空救援",
+      "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2508922375.webp",
+      "score": 7.7
+    },
+    {
+      "name": "寻梦环游记",
+      "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2503997609.webp",
+      "score": 9.0
+    }
+  ]
+}

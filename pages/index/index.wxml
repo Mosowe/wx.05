@@ -1,0 +1,16 @@
+<import src='../tpl/movieList'/>
+<import src='../tpl/search'/>
+<template is='search'></template>
+<scroll-view scroll-y class='indexScroll'>
+  <view class='indexBox'>
+    <template is='movieList' data="{{movieListName:zzry.title , movieList:zzry.list ,movieListUrl:'zzry.json'}}"></template>
+    <template is='movieList' data="{{movieListName:jjsy.title , movieList:jjsy.list ,movieListUrl:'jjsy.json' }}"></template>
+    <template is='movieList' data="{{movieListName:top2017.title , movieList:top2017.list ,movieListUrl:'top2017.json' }}"></template>
+  </view>
+</scroll-view>
+
+
+
+
+
+
